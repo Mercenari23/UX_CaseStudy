@@ -40,7 +40,7 @@ Logotipo:
 Miembros y nombre del equipo:
  * DIU1.Pogo
  * :bust_in_silhouette:  Alberto David Gómez Gijón: https://github.com/Mercenari23     :octocat:     
- * :bust_in_silhouette:  Manuel José Fernández Poyatos     :octocat:
+ * :bust_in_silhouette:  Manuel José Fernández Poyatos: https://github.com/ManuehFernandez     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -65,8 +65,15 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Voy a crear un restaurante temático inspirado en el universo de Pokémon, donde la idea principal gira en torno a la exploración, el descubrimiento de Pokémon y el espíritu de aventura propio de los entrenadores. El concepto del local estará basado en el recorrido por diferentes regiones del mundo Pokémon.
 
+El restaurante estará organizado de forma que cada zona del local represente un entorno característico del universo de Pokémon, como bosques, montañas, cuevas o ciudades. Las mesas simularán ser centros Pokémon, dependiendo de la zona en la que se encuentre, donde los entrenadores descansan durante su viaje. De esta manera, cada mesa tendrá una ambientación distinta inspirada en zonas donde suelen aparecer diferentes tipos de Pokémon.
+
+Cuando llegue el momento de servir la comida, los platos llegarán a las mesas a través de un sistema automatizado que recorrerá el restaurante, simulando el desplazamiento de Pokémon mensajeros que llevan los pedidos entre zonas. Las bandejas o recipientes estarán diseñados con formas y colores inspirados en las PokeBall que existen.
+
+Para realizar los pedidos, los clientes utilizarán una pantalla interactiva en cada mesa que funcionará como menú digital. En esta interfaz podrán explorar los distintos platos como si fueran Pokémon u objetos del juego, consultando sus ingredientes, características o recomendaciones antes de seleccionarlos.
+
+Para desarrollar este proyecto será necesaria una aplicación web que permita a los usuarios conocer el concepto del restaurante, explorar las diferentes zonas temáticas del local y consultar la carta antes de su visita. El diseño visual de esta web deberá reflejar claramente la temática del restaurante, utilizando elementos que recuerden a mapas de exploración, rutas de entrenamiento, etc.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
