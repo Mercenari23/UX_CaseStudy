@@ -35,7 +35,6 @@ Descripción:
 
 Logotipo: 
 ![Logo Ramen](img/PogoRamen.jpeg)
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
  * DIU1.Pogo
