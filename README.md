@@ -34,7 +34,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
-
+!img/PogoRamen.png
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros y nombre del equipo:
