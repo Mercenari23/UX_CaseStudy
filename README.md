@@ -31,7 +31,9 @@ Nombre del Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestra idea de proyecto es un restaurante temático de Pokémon donde los clientes puedan crear sus propios platos estilo poke formando su “equipo de 6” con ingredientes que representen distintos Pokémon. También ofreceremos platos inspirados en entrenadores famosos como Misty o Brock, y menús especiales de 4 platos basados en líderes y campeones de las ligas de distintas regiones como Johto, Kalos o Teselia.
+
+Los pedidos se realizarán en una máquina que simula ser un PC Pokémon, similar a un puesto de pedido automático, desde donde los clientes podrán elegir sus platos antes de recibir el servicio en mesa. Además, el restaurante contará con un sistema de fidelización en forma de tarjeta de medallas, donde a los clientes que repitan se les sellará una medalla en cada visita y, al conseguir las 8 medallas, obtendrán un entrante gratis.
 
 Logotipo: 
 ![Logo Ramen](img/PogoRamen.jpeg)
