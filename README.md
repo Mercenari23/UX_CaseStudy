@@ -68,6 +68,11 @@ El objetivo es cuál es el interés de los clientes en el mundo Pokémon. El con
 
 La investigación se realizará mediante encuestas online y entrevistas a personas entre 18 y 35 años interesadas Pokémon o en restaurantes temáticos. El objetivo es identificar el nivel de interés, entender qué elementos de Pokémon resultan más atractivos y determinar si el sistema de platos/menú basado en equipos y ligas es claro y divertido para los usuarios.
 
+sdihjkñsdguiñfsduighkfsd
+fsdiop`hfsdi+h´f
+dsklhf
+
+
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
