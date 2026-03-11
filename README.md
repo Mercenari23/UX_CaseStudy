@@ -84,7 +84,7 @@ La investigación se realizará mediante encuestas online y entrevistas a person
 Para el desarrollo de este proyecto hemos creado a dos personas ficticias, para intentar ponernos en su lugar, dejando de lado nuestras inquietudes y empatizar con los usuarios.
 
 El primero es Alex, un chico joven, fan de la cultura pop el anime y los videojuegos, estudia informatica y esta muy familiarizado con las tecnologias y el mundo del anime.
->>> ![](P1/coleta.png)
+>>> ![](P1/Alex.png)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
