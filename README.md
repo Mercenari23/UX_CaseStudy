@@ -86,7 +86,7 @@ El primero es Alex, un chico joven, fan de la cultura pop el anime y los videoju
 >>> ![](P1/Alex.png)
 
 El segundo es Manuel, un juvilado que visita el restaurante con sus nietos, no entiende mucho de la cultura pop pero accede a ir con su familia.
-![](P1/Manuel.png)
+>>>![](P1/Manuel.png)
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
