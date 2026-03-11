@@ -79,13 +79,14 @@ La investigación se realizará mediante encuestas online y entrevistas a person
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
-
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+  
 Para el desarrollo de este proyecto hemos creado a dos personas ficticias, para intentar ponernos en su lugar, dejando de lado nuestras inquietudes y empatizar con los usuarios.
 
 El primero es Alex, un chico joven, fan de la cultura pop el anime y los videojuegos, estudia informatica y esta muy familiarizado con las tecnologias y el mundo del anime.
 >>> ![](P1/Alex.png)
 
+El segundo es Manuel, un juvilado que visita el restaurante con sus nietos, no entiende mucho de la cultura pop pero accede a ir con su familia.
+![](P1/Manuel.png)
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
