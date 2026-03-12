@@ -35,6 +35,8 @@ Nuestra idea de proyecto es un restaurante temático de Pokémon donde los clien
 
 Los pedidos se realizarán en una máquina que simula ser un PC Pokémon, similar a un puesto de pedido automático, desde donde los clientes podrán elegir sus platos antes de recibir el servicio en mesa. Además, el restaurante contará con un sistema de fidelización en forma de tarjeta de medallas, donde a los clientes que repitan se les sellará una medalla en cada visita y, al conseguir las 8 medallas, obtendrán un entrante gratis.
 
+La página web
+
 Logotipo: 
 ![Logo Ramen](img/PogoRamen.jpeg)
 
@@ -65,9 +67,11 @@ Miembros y nombre del equipo:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
+Hemos elegido como forma de investigación el 
+
 El objetivo es cuál es el interés de los clientes en el mundo Pokémon. El concepto en si se basa en un restaurante donde el cliente puede hacer dos cosas: una es hacerse un plato de 6 elementos, como si fuese un equipo pokemon, de manera que cada elemento esté asociado a un Pokémon; por otro lado, tener una serie de menús a elegir donde cada menú este ambientado en un alto mando, de manera que tengas el entrante, 1er plato, 2do plato y postre.
 
-La investigación se realizará mediante encuestas online y entrevistas a personas entre 18 y 35 años interesadas Pokémon o en restaurantes temáticos. El objetivo es identificar el nivel de interés, entender qué elementos de Pokémon resultan más atractivos y determinar si el sistema de platos/menú basado en equipos y ligas es claro y divertido para los usuarios.
+La investigación se realizará mediante encuestas online y entrevistas a personas entre 18 y 35 años interesadas Pokémon o en restaurantes temáticos. El objetivo es identificar el nivel de interés, entender qué elementos de Pokémon resultan más atractivos y determinar si el sistema de platos/menú basado en equipos y ligas es claro y divertido para los usuarios. (desarrollar)
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
@@ -75,6 +79,7 @@ La investigación se realizará mediante encuestas online y entrevistas a person
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
+Para el análisis competitivo hemos elegido 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
