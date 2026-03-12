@@ -87,10 +87,10 @@ Para el análisis competitivo hemos elegido
   
 Para el desarrollo de este proyecto hemos creado a dos personas ficticias, para intentar ponernos en su lugar, dejando de lado nuestras inquietudes y empatizar con los usuarios.
 
-El primero es Alex, un chico joven, fan de la cultura pop el anime y los videojuegos, estudia informatica y esta muy familiarizado con las tecnologias y el mundo del anime.
+El primero es Álex, un chico joven, fan de la cultura pop, el anime y los videojuegos. Estudia infórmatica y esta muy familiarizado con las tecnologías y el mundo del anime.
 >>> ![](P1/Alex.png)
 
-El segundo es Manuel, un juvilado que visita el restaurante con sus nietos, no entiende mucho de la cultura pop pero accede a ir con su familia.
+El segundo es Manuel, un jubilado que visita el restaurante con sus nietos. No entiende mucho de la cultura pop pero accede a ir con su familia.
 >>> ![](P1/Manuel.png)
 
 ### 1.d User Journey Map
