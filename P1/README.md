@@ -31,10 +31,10 @@ Para el análisis competitivo hemos elegido
 Para el desarrollo de este proyecto hemos creado a dos personas ficticias, para intentar ponernos en su lugar, dejando de lado nuestras inquietudes y empatizar con los usuarios.
 
 El primero es Álex, un chico joven, fan de la cultura pop, el anime y los videojuegos. Estudia infórmatica y esta muy familiarizado con las tecnologías y el mundo del anime.
->>> ![](P1/Alex.png)
+>>> ![](Alex.png)
 
 El segundo es Manuel, un jubilado que visita el restaurante con sus nietos. No entiende mucho de la cultura pop pero accede a ir con su familia.
->>> ![](P1/Manuel.png)
+>>> ![](Manuel.png)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
@@ -42,8 +42,8 @@ El segundo es Manuel, un jubilado que visita el restaurante con sus nietos. No e
 
 Las dos experiencias que has definido en el journey map (Manuel vs Alex) no son casuales: responden a diferencias profundas en motivaciones, contexto y relación con la tecnología, y de hecho son muy habituales en UX, especialmente en experiencias híbridas (ocio + restauración + tecnología).
 
->>> ![](P1/Manuel_JM.png)
->>> ![](P1/Alex_JM.png)
+>>> ![](Manuel_JM.png)
+>>> ![](Alex_JM.png)
 
 
 ### 1.e Usability Review
