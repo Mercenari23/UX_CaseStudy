@@ -97,7 +97,10 @@ El segundo es Manuel, un jubilado que visita el restaurante con sus nietos. No e
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Las dos experiencias que has definido en el journey map (Manuel vs Alex) no son casuales: responden a diferencias profundas en motivaciones, contexto y relación con la tecnología, y de hecho son muy habituales en UX, especialmente en experiencias híbridas (ocio + restauración + tecnología).
+
+>>> ![](P1/Manuel_JM.png)
+>>> ![](P1/Alex_JM.png)
 
 
 ### 1.e Usability Review
