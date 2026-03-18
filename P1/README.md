@@ -8,7 +8,7 @@
 
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
+![Método UX](../img/Competitive.png) 
 -----
 Hemos elegido como forma de investigación el 
 
@@ -17,7 +17,7 @@ El objetivo es cuál es el interés de los clientes en el mundo Pokémon. El con
 La investigación se realizará mediante encuestas online y entrevistas a personas entre 18 y 35 años interesadas Pokémon o en restaurantes temáticos. El objetivo es identificar el nivel de interés, entender qué elementos de Pokémon resultan más atractivos y determinar si el sistema de platos/menú basado en equipos y ligas es claro y divertido para los usuarios. (desarrollar)
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
+![Método UX](../img/Competitive.png) 
 -----
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
@@ -25,7 +25,7 @@ La investigación se realizará mediante encuestas online y entrevistas a person
 Para el análisis competitivo hemos elegido 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
+![Método UX](../img/Persona.png) 
 -----
   
 Para el desarrollo de este proyecto hemos creado a dos personas ficticias, para intentar ponernos en su lugar, dejando de lado nuestras inquietudes y empatizar con los usuarios.
@@ -37,7 +37,7 @@ El segundo es Manuel, un jubilado que visita el restaurante con sus nietos. No e
 >>> ![](Manuel.png)
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+![Método UX](../img/JourneyMap.png) 
 ----
 
 Las dos experiencias que has definido en el journey map (Manuel vs Alex) no son casuales: responden a diferencias profundas en motivaciones, contexto y relación con la tecnología, y de hecho son muy habituales en UX, especialmente en experiencias híbridas (ocio + restauración + tecnología).
@@ -47,7 +47,7 @@ Las dos experiencias que has definido en el journey map (Manuel vs Alex) no son 
 
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
+![Método UX](../img/usabilityReview.png) 
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
