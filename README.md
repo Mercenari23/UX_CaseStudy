@@ -89,7 +89,7 @@ Para el análisis competitivo hemos elegido dos restuarantes enlazados con el ra
 Ramen Shifu: Es una cadena de restaurantes con varios locales en España. Su modelo se basa tener una experiencia temática ligera que atrae un gran público. Ofrece una carta que se centra en ramen pero con acompañamientos japoneses como pueden ser gyozas por ejemplo. La carta es clara y reconocible, algo a tener en cuenta, y la tematización no interfiere en esta.
 La experiencia es ágil y eficiente, lo cual hace que el usuario entre y consuma sin problemas. La forma de conectar con el público es a través de la estética visual y de redes sociales.
 
-Otaku Ramen: Es un restaurante que está más enfocado al público que le gusta el anime y el manga. Por ello la tematización es más intensa que por ejemplo, el Ramen Shifu, haciendo más incapié en la caracterización de los platos y ambientación. Una diferencia principal respecto al anterior es en el menú, teniendo este más peso en el concepto sobre la claridad.
+Ramen Otaku: Es un restaurante que está más enfocado al público que le gusta el anime y el manga. Por ello la tematización es más intensa que por ejemplo, el Ramen Shifu, haciendo más incapié en la caracterización de los platos y ambientación. Una diferencia principal respecto al anterior es en el menú, teniendo este más peso en el concepto sobre la claridad.
 La experiencia del usuario es más inmersiva que la anterior, y este se ve atraído por el contenido visual que atractivo que se hace en redes sociales.
 
 ### 1.c Personas
@@ -118,10 +118,23 @@ Las dos experiencias que has definido en el journey map (Manuel vs Alex) no son 
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Enlace al documento:  (xls/pdf) 
+
+URL y Valoración numérica obtenida: 57 (Moderate).
+
+Puntos fuertes detectados:
+
+La accesibilidad a la página y la carga rápida de esta hace que mejore la web funcione perfectamente y mejore la experiencia del usuario. 
+Buena página de inicio.
+No hay sobrecarga de contenido.
+
+Puntos débiles detectados:
+Falta de formularios, no hay variedad de opciones.
+No hay un buscador para las reservas en tu ciudad y/o la carta.
+No hay un apartado de ayuda.
+No hay mensajes de error bien definidos y concisos, solo en un apartado de la página.
+El texto se hace poco legible en partes de la página donde el contraste de colores no es del todo apropiado.
+La navegación se vuelve un poco dificultosa por la ausencia de botones para volver atrás.
 
 <br>
 
