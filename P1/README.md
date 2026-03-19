@@ -56,7 +56,24 @@ Por otro lado, la experiencia de Alex responde a un perfil completamente distint
 ### 1.e Usability Review
 ![Método UX](../img/usabilityReview.png) 
 ----
+Enlace al documento:  >>> [UsabilityReview](img/UR.xlsx?raw=true)
 
->>> ![](img/UR.xlsx)
+URL y Valoración numérica obtenida: 56 (Moderate).
+
+Puntos fuertes detectados:
+
+La accesibilidad a la página y la carga rápida de esta hace que mejore la web funcione perfectamente y mejore la experiencia del usuario. 
+Buena página de inicio.
+No hay sobrecarga de contenido.
+
+Puntos débiles detectados:
+Falta de formularios, no hay variedad de opciones.
+No hay un buscador para las reservas en tu ciudad y/o la carta.
+No hay un apartado de ayuda.
+No hay mensajes de error bien definidos y concisos, solo en un apartado de la página.
+El texto se hace poco legible en partes de la página donde el contraste de colores no es del todo apropiado.
+La navegación se vuelve un poco dificultosa por la ausencia de botones para volver atrás.
+
+<br>
 
 <br>
