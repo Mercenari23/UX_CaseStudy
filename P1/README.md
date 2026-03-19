@@ -67,7 +67,7 @@ Por otro lado, la experiencia de Alex responde a un perfil completamente distint
 ### 1.e Usability Review
 ![Método UX](../img/usabilityReview.png) 
 ----
-Enlace al documento:  >>> [UsabilityReview](img/UR.xlsx)
+Enlace al documento:  >>> [UsabilityReview](https://github.com/Mercenari23/UX_CaseStudy/blob/2685376d56cd9de49a38c0cf9bcdc265c8b9f6c9/P1/img/UR.xlsx)
 
 URL y Valoración numérica obtenida: 56 (Moderate).
 
