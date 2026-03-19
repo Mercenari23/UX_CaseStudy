@@ -120,7 +120,7 @@ Las dos experiencias que has definido en el journey map (Manuel vs Alex) no son 
 
 Enlace al documento:  (xls/pdf) 
 
-URL y Valoración numérica obtenida: 57 (Moderate).
+URL y Valoración numérica obtenida: 56 (Moderate).
 
 Puntos fuertes detectados:
 
