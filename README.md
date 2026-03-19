@@ -45,7 +45,6 @@ Miembros y nombre del equipo:
  * :bust_in_silhouette:  Alberto David Gómez Gijón: https://github.com/Mercenari23     :octocat:     
  * :bust_in_silhouette:  Manuel José Fernández Poyatos: https://github.com/ManuehFernandez     :octocat:
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
 
@@ -61,7 +60,6 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 1.a User Reseach Plan
@@ -79,6 +77,7 @@ Para llevar a cabo la investigación, se empleará una combinación de entrevist
 En primer lugar, se realizarán encuestas online dirigidas a personas entre 18 y 35 años interesadas en Pokémon o en restaurantes temáticos(sobre todo con el anime). Estas encuestas permitirán saber sobre el nivel de interés en el concepto, las preferencias de los usuarios y su percepción inicial del restaurante.
 
 En segundo lugar, se llevarán a cabo entrevistas semiestructuradas, es decir, una mezcla de preguntas ya definidas y temas de conversación no definidos antes de la conversación, con el objetivo de profundizar en las opiniones, motivaciones y expectativas de los usuarios. Esto permitirá entender mejor qué elementos del mundo Pokémon resultan más atractivos y cómo interpretan la propuesta del restaurante.
+>>> ![](P1/img/RSP.png)
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
@@ -91,7 +90,7 @@ La experiencia es ágil y eficiente, lo cual hace que el usuario entre y consuma
 
 Ramen Otaku: Es un restaurante que está más enfocado al público que le gusta el anime y el manga. Por ello la tematización es más intensa que por ejemplo, el Ramen Shifu, haciendo más incapié en la caracterización de los platos y ambientación. Una diferencia principal respecto al anterior es en el menú, teniendo este más peso en el concepto sobre la claridad.
 La experiencia del usuario es más inmersiva que la anterior, y este se ve atraído por el contenido visual que atractivo que se hace en redes sociales.
-
+>>> ![](P1/img/Comp.png)
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
@@ -117,7 +116,7 @@ Las dos experiencias que hemos definido en el journey map (Manuel y Alex) no son
 ![Método UX](img/usabilityReview.png) 
 ----
 
-Enlace al documento:  (xls/pdf) 
+Enlace al documento:  >>> ![](P1/img/UR.xlsx)
 
 URL y Valoración numérica obtenida: 56 (Moderate).
 
