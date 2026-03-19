@@ -28,12 +28,13 @@ Para el análisis competitivo hemos elegido
 ![Método UX](../img/Persona.png) 
 -----
   
-Para el desarrollo de este proyecto hemos creado a dos personas ficticias, para intentar ponernos en su lugar, dejando de lado nuestras inquietudes y empatizar con los usuarios.
+Para el desarrollo de este proyecto hemos creado a dos personas ficticias para intentar ponernos en su lugar, dejando de lado nuestras inquietudes y empatizar con los usuarios.
 
-El primero es Álex, un chico joven, fan de la cultura pop, el anime y los videojuegos. Estudia infórmatica y esta muy familiarizado con las tecnologías y el mundo del anime.
+El primero es Álex, un chico joven, fan de la cultura pop, el anime y los videojuegos. Estudia informática y está muy familiarizado con las tecnologías y el mundo del anime.
+
 >>> ![](img/Alex.png)
 
-El segundo es Manuel, un jubilado que visita el restaurante con sus nietos. No entiende mucho de la cultura pop pero accede a ir con su familia.
+El segundo es Manuel, un jubilado que visita el restaurante con sus nietos. No entiende mucho de la cultura pop, pero accede a ir con su familia.
 >>> ![](img/Manuel.png)
 
 ### 1.d User Journey Map
