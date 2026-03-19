@@ -67,19 +67,30 @@ Miembros y nombre del equipo:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
-Hemos elegido como forma de investigación el 
+Hemos elegido para la investigación el restaurante Hanazono L'Eliana, ubicado en Valencia, que se caracteriza por su ambientación inspirada en la comida japonesa y el mundo del anime, lo cual hace que conecte fuertemente con el público joven. Esto es debido a cómo está ambientado por dentro, ya que cuenta con elementos visuales, decorativos y conceptuales que hace que disfrutes de una experiencia inmersiva.
 
-El objetivo es cuál es el interés de los clientes en el mundo Pokémon. El concepto en si se basa en un restaurante donde el cliente puede hacer dos cosas: una es hacerse un plato de 6 elementos, como si fuese un equipo pokemon, de manera que cada elemento esté asociado a un Pokémon; por otro lado, tener una serie de menús a elegir donde cada menú este ambientado en un alto mando, de manera que tengas el entrante, 1er plato, 2do plato y postre.
+Hemos realizado la investigación porque uno de nuestros principales objetivos es que el cliente conecte con el restaurante y con nosotros de una forma que no hayan experimentado todavía. Es por ello que hemos elegido el restaurante Hanazono L'Eliana. También se pretende mejorar la diversidad a la hora de los platos de comida, ya que por nuestra idea, debemos tener una amplia variedad de comida.
 
-La investigación se realizará mediante encuestas online y entrevistas a personas entre 18 y 35 años interesadas Pokémon o en restaurantes temáticos. El objetivo es identificar el nivel de interés, entender qué elementos de Pokémon resultan más atractivos y determinar si el sistema de platos/menú basado en equipos y ligas es claro y divertido para los usuarios. (desarrollar)
+Por último, tener un buen engagement en redes sociales, al igual que Hanazono L'Eliana, con la ayuda de la estética y presentación de los platos para así motivar a los usuarios compartir contenido del restaurante.
+
+
+Para llevar a cabo la investigación, se empleará una combinación de entrevistas y encuestas con el objetivo de obtener una visión completa tanto del interés de los usuarios como de su percepción de nuestro concepto.
+
+En primer lugar, se realizarán encuestas online dirigidas a personas entre 18 y 35 años interesadas en Pokémon o en restaurantes temáticos(sobre todo con el anime). Estas encuestas permitirán saber sobre el nivel de interés en el concepto, las preferencias de los usuarios y su percepción inicial del restaurante.
+
+En segundo lugar, se llevarán a cabo entrevistas semiestructuradas, es decir, una mezcla de preguntas ya definidas y temas de conversación no definidos antes de la conversación, con el objetivo de profundizar en las opiniones, motivaciones y expectativas de los usuarios. Esto permitirá entender mejor qué elementos del mundo Pokémon resultan más atractivos y cómo interpretan la propuesta del restaurante.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Para el análisis competitivo hemos elegido dos restuarantes enlazados con el ramen, Ramen Shifu y Otaku Ramen.
 
-Para el análisis competitivo hemos elegido 
+Ramen Shifu: Es una cadena de restaurantes con varios locales en España. Su modelo se basa tener una experiencia temática ligera que atrae un gran público. Ofrece una carta que se centra en ramen pero con acompañamientos japoneses como pueden ser gyozas por ejemplo. La carta es clara y reconocible, algo a tener en cuenta, y la tematización no interfiere en esta.
+La experiencia es ágil y eficiente, lo cual hace que el usuario entre y consuma sin problemas. La forma de conectar con el público es a través de la estética visual y de redes sociales.
+
+Otaku Ramen: Es un restaurante que está más enfocado al público que le gusta el anime y el manga. Por ello la tematización es más intensa que por ejemplo, el Ramen Shifu, haciendo más incapié en la caracterización de los platos y ambientación. Una diferencia principal respecto al anterior es en el menú, teniendo este más peso en el concepto sobre la claridad.
+La experiencia del usuario es más inmersiva que la anterior, y este se ve atraído por el contenido visual que atractivo que se hace en redes sociales.
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
