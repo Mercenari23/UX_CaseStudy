@@ -116,7 +116,7 @@ Las dos experiencias que hemos definido en el journey map (Manuel y Alex) no son
 ![Método UX](img/usabilityReview.png) 
 ----
 
-Enlace al documento:  >>> ![](P1/img/UR.xlsx)
+Enlace al documento:  >>> [](P1/img/UR.xlsx)
 
 URL y Valoración numérica obtenida: 56 (Moderate).
 
