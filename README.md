@@ -96,19 +96,18 @@ La experiencia del usuario es más inmersiva que la anterior, y este se ve atra�
 ![Método UX](img/Persona.png) 
 -----
   
-Para el desarrollo de este proyecto hemos creado a dos personas ficticias, para intentar ponernos en su lugar, dejando de lado nuestras inquietudes y empatizar con los usuarios.
+Para el desarrollo de este proyecto hemos creado a dos personas ficticias,Alex y Miguel, para intentar ponernos en su lugar, dejando de lado nuestras inquietudes y empatizar con las necesidades de usuarios variados.
 
-El primero es Álex, un chico joven, fan de la cultura pop, el anime y los videojuegos. Estudia infórmatica y esta muy familiarizado con las tecnologías y el mundo del anime.
+
 >>> ![](P1/img/Alex.png)
 
-El segundo es Manuel, un jubilado que visita el restaurante con sus nietos. No entiende mucho de la cultura pop pero accede a ir con su familia.
 >>> ![](P1/img/Manuel.png)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 
-Las dos experiencias que has definido en el journey map (Manuel vs Alex) no son casuales: responden a diferencias profundas en motivaciones, contexto y relación con la tecnología, y de hecho son muy habituales en UX, especialmente en experiencias híbridas (ocio + restauración + tecnología).
+Las dos experiencias que hemos definido en el journey map (Manuel y Alex) no son casuales: responden a diferencias profundas en motivaciones, contexto y relación con la tecnología.
 
 >>> ![](P1/img/Manuel_JM.png)
 >>> ![](P1/img/Alex_JM.png)
