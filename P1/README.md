@@ -22,14 +22,18 @@ Para llevar a cabo la investigación, se empleará una combinación de entrevist
 En primer lugar, se realizarán encuestas online dirigidas a personas entre 18 y 35 años interesadas en Pokémon o en restaurantes temáticos(sobre todo con el anime). Estas encuestas permitirán saber sobre el nivel de interés en el concepto, las preferencias de los usuarios y su percepción inicial del restaurante.
 
 En segundo lugar, se llevarán a cabo entrevistas semiestructuradas, es decir, una mezcla de preguntas ya definidas y temas de conversación no definidos antes de la conversación, con el objetivo de profundizar en las opiniones, motivaciones y expectativas de los usuarios. Esto permitirá entender mejor qué elementos del mundo Pokémon resultan más atractivos y cómo interpretan la propuesta del restaurante.
->>> ![](P1/img/RSP.png)
+>>> ![](img/RSP.png)
 ### 1.b Competitive Analysis
 ![Método UX](../img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Para el análisis competitivo hemos elegido dos restuarantes enlazados con el ramen, Ramen Shifu y Otaku Ramen.
 
-Para el análisis competitivo hemos elegido 
+Ramen Shifu: Es una cadena de restaurantes con varios locales en España. Su modelo se basa tener una experiencia temática ligera que atrae un gran público. Ofrece una carta que se centra en ramen pero con acompañamientos japoneses como pueden ser gyozas por ejemplo. La carta es clara y reconocible, algo a tener en cuenta, y la tematización no interfiere en esta.
+La experiencia es ágil y eficiente, lo cual hace que el usuario entre y consuma sin problemas. La forma de conectar con el público es a través de la estética visual y de redes sociales.
+
+Ramen Otaku: Es un restaurante que está más enfocado al público que le gusta el anime y el manga. Por ello la tematización es más intensa que por ejemplo, el Ramen Shifu, haciendo más incapié en la caracterización de los platos y ambientación. Una diferencia principal respecto al anterior es en el menú, teniendo este más peso en el concepto sobre la claridad.
+La experiencia del usuario es más inmersiva que la anterior, y este se ve atraído por el contenido visual que atractivo que se hace en redes sociales.
 >>> ![](img/Comp.png)
 ### 1.c Personas
 ![Método UX](../img/Persona.png) 
