@@ -10,12 +10,19 @@
 ### 1.a User Reseach Plan
 ![Método UX](../img/Competitive.png) 
 -----
-Hemos elegido como forma de investigación el 
+Hemos elegido para la investigación el restaurante Hanazono L'Eliana, ubicado en Valencia, que se caracteriza por su ambientación inspirada en la comida japonesa y el mundo del anime, lo cual hace que conecte fuertemente con el público joven. Esto es debido a cómo está ambientado por dentro, ya que cuenta con elementos visuales, decorativos y conceptuales que hace que disfrutes de una experiencia inmersiva.
 
-El objetivo es cuál es el interés de los clientes en el mundo Pokémon. El concepto en si se basa en un restaurante donde el cliente puede hacer dos cosas: una es hacerse un plato de 6 elementos, como si fuese un equipo pokemon, de manera que cada elemento esté asociado a un Pokémon; por otro lado, tener una serie de menús a elegir donde cada menú este ambientado en un alto mando, de manera que tengas el entrante, 1er plato, 2do plato y postre.
+Hemos realizado la investigación porque uno de nuestros principales objetivos es que el cliente conecte con el restaurante y con nosotros de una forma que no hayan experimentado todavía. Es por ello que hemos elegido el restaurante Hanazono L'Eliana. También se pretende mejorar la diversidad a la hora de los platos de comida, ya que por nuestra idea, debemos tener una amplia variedad de comida.
 
-La investigación se realizará mediante encuestas online y entrevistas a personas entre 18 y 35 años interesadas Pokémon o en restaurantes temáticos. El objetivo es identificar el nivel de interés, entender qué elementos de Pokémon resultan más atractivos y determinar si el sistema de platos/menú basado en equipos y ligas es claro y divertido para los usuarios. (desarrollar)
->>> ![](img/RSP.png)
+Por último, tener un buen engagement en redes sociales, al igual que Hanazono L'Eliana, con la ayuda de la estética y presentación de los platos para así motivar a los usuarios compartir contenido del restaurante.
+
+
+Para llevar a cabo la investigación, se empleará una combinación de entrevistas y encuestas con el objetivo de obtener una visión completa tanto del interés de los usuarios como de su percepción de nuestro concepto.
+
+En primer lugar, se realizarán encuestas online dirigidas a personas entre 18 y 35 años interesadas en Pokémon o en restaurantes temáticos(sobre todo con el anime). Estas encuestas permitirán saber sobre el nivel de interés en el concepto, las preferencias de los usuarios y su percepción inicial del restaurante.
+
+En segundo lugar, se llevarán a cabo entrevistas semiestructuradas, es decir, una mezcla de preguntas ya definidas y temas de conversación no definidos antes de la conversación, con el objetivo de profundizar en las opiniones, motivaciones y expectativas de los usuarios. Esto permitirá entender mejor qué elementos del mundo Pokémon resultan más atractivos y cómo interpretan la propuesta del restaurante.
+>>> ![](P1/img/RSP.png)
 ### 1.b Competitive Analysis
 ![Método UX](../img/Competitive.png) 
 -----
