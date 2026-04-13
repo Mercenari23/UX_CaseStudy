@@ -162,7 +162,7 @@ Propuesta de valor: PokéBowl League combina restauración temática e interfaz 
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-Se ha elaborado un ScopeCanvas para definir el alcance funcional y estratégico de PokéBowl League. En él se recoge como idea principal el diseño de una experiencia digital de pedido para un restaurante temático Pokémon orientado a jóvenes y adultos fans del anime, la cultura pop y la comida japonesa.
+Se ha elaborado un ScopeCanvas para definir el alcance funcional y estratégico de POGO RAMEN. En él se recoge como idea principal el diseño de una experiencia digital de pedido para un restaurante temático Pokémon orientado a jóvenes y adultos fans del anime, la cultura pop y la comida japonesa.
 
 Los objetivos del producto son:
 
