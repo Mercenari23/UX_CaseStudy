@@ -138,7 +138,15 @@ La navegación se vuelve un poco dificultosa por la ausencia de botones para vol
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+A partir del análisis de la práctica anterior detectamos una oportunidad clara en el mercado de restauración temática. La competencia ofrece experiencias visualmente atractivas, pero presenta varias limitaciones desde el punto de vista de la experiencia de usuario: menús poco flexibles, escasa ayuda durante el proceso de elección, navegación mejorable, poca personalización, falta de herramientas de búsqueda y una propuesta temática que en muchos casos se queda solo en lo decorativo. Estas debilidades nos permiten replantear el problema no como “hacer otro restaurante anime”, sino como diseñar una experiencia gastronómica temática que sea inmersiva, comprensible, personalizada y fácil de usar.
+
+Nuestro usuario busca algo más que comer: quiere una experiencia divertida, compartible y con identidad propia. Sin embargo, también necesita claridad a la hora de elegir, entender bien los ingredientes, recibir ayuda en el proceso y completar el pedido sin fricción. Esto es especialmente importante en un concepto como el nuestro, donde la personalización del plato forma parte central de la experiencia.
+
+Problema de diseño: los restaurantes temáticos existentes generan interés por su estética, pero no siempre convierten esa atracción inicial en una experiencia digital y presencial clara, personalizada y memorable. La falta de orientación, personalización bien guiada y continuidad entre el concepto temático y la interacción real hace que el valor percibido disminuya.
+
+Hipótesis: si diseñamos una experiencia de pedido basada en una metáfora reconocible para el público objetivo —un “PC Pokémon” desde el que crear tu equipo de 6 ingredientes—, con navegación simple, ayudas visuales, opciones claras y recompensas mediante un sistema de medallas, entonces aumentará la satisfacción del usuario, la sensación de inmersión y la probabilidad de repetición.
+
+Propuesta de valor: PokéBowl League combina restauración temática e interfaz guiada para que el usuario no solo consuma comida, sino que “forme su equipo”, descubra platos inspirados en entrenadores y gimnasios, y reciba recompensas por volver. El valor diferencial no está solo en la ambientación, sino en transformar el pedido en una experiencia jugable, comprensible y socialmente compartible.
 
 
  Interesante | Críticas     
@@ -154,16 +162,38 @@ La navegación se vuelve un poco dificultosa por la ausencia de botones para vol
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+Se ha elaborado un ScopeCanvas para definir el alcance funcional y estratégico de PokéBowl League. En él se recoge como idea principal el diseño de una experiencia digital de pedido para un restaurante temático Pokémon orientado a jóvenes y adultos fans del anime, la cultura pop y la comida japonesa.
 
+Los objetivos del producto son:
 
+facilitar un proceso de pedido claro y entretenido;
+permitir la personalización del plato de forma guiada;
+reforzar la inmersión temática mediante metáforas del universo Pokémon;
+fomentar la repetición con un sistema de fidelización basado en medallas;
+mejorar la visibilidad social del restaurante gracias a una experiencia visualmente compartible.
+
+Las funcionalidades prioritarias definidas en el ScopeCanvas son: exploración de la carta, creación de plato personalizado “equipo de 6”, selección de menús temáticos, visualización de ingredientes y alérgenos, reserva de mesa, consulta del estado del pedido y acceso al sistema de medallas o recompensas. Como funcionalidades secundarias se contemplan compartir platos en redes, guardar combinaciones favoritas y repetir pedidos anteriores.
+
+Con este canvas delimitamos el MVP del producto en torno a la experiencia de pedido y reserva, dejando para fases posteriores funciones de comunidad y personalización avanzada.
+
+![](P1/img/ScopeCanvas.png)
+
+>>>falta mejorar
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+>>>
+>>> Falta
+Se ha definido un User Flow centrado en la tarea principal del sistema: realizar un pedido personalizado en el restaurante. Esta tarea representa el núcleo de la propuesta de valor, ya que convierte la elección de comida en una experiencia temática inspirada en la construcción de un “equipo Pokémon”.
+
+El flujo principal comienza cuando el usuario accede a la pantalla inicial del sistema de pedido. Desde ahí puede elegir entre consultar la carta general, reservar mesa o iniciar directamente la creación de su plato. Si selecciona la opción de creación personalizada, el sistema le guía paso a paso para elegir base, proteínas, toppings, salsas y extras, mostrando nombres, descripciones e información relevante para evitar confusión. Una vez completado el “equipo de 6”, el usuario revisa el resumen del pedido, confirma, añade posibles complementos y finaliza el proceso. Finalmente recibe una confirmación y, si está registrado, se actualiza su progreso en la tarjeta de medallas.
+
+También se han contemplado flujos secundarios como consultar menús temáticos ya preparados, repetir un pedido anterior, revisar alérgenos o hacer una reserva. Estos recorridos secundarios ayudan a cubrir perfiles de usuario distintos: desde quien quiere experimentar y personalizar hasta quien busca rapidez y comodidad.
+
+El análisis de tareas nos permite reducir fricciones detectadas en la competencia, sobre todo en claridad del menú, orientación del usuario y facilidad de navegación.
 
 
 ### 2.c IA: Sitemap + Labelling 
