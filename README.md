@@ -176,7 +176,7 @@ Las funcionalidades prioritarias definidas en el ScopeCanvas son: exploración d
 
 Con este canvas delimitamos el MVP del producto en torno a la experiencia de pedido y reserva, dejando para fases posteriores funciones de comunidad y personalización avanzada.
 
-![](P1/img/ScopeCanvas.png)
+![](P2/img/ScopeCanvas.png)
 
 >>>falta mejorar
 
