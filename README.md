@@ -229,7 +229,7 @@ Así se ve el menú de entrenadores.
 ![Entrenadores](./P2/img/Entrenadores.png)
 
 Así se ve el menú de ligas.  
-![Liga](./P2/img/Liga.png)
+![Liga](./P2/img/Ligas.png)
 
 Así se ve el carrito de compra.   
 ![Carrito](./P2/img/Compra.png)
