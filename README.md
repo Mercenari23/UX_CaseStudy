@@ -211,7 +211,37 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+En esta fase se han desarrollado distintos wireframes en baja fidelidad con el objetivo de definir la estructura, navegación y distribución de contenidos del sistema antes de aplicar el diseño visual final. Para su elaboración se han utilizado herramientas como Figma y Balsamiq, lo que ha permitido iterar de forma rápida y centrarse en la funcionalidad y la experiencia de usuario.
+
+Los wireframes representan las principales pantallas del sistema de pedido del restaurante temático, cubriendo tanto el flujo principal como funcionalidades secundarias clave. A través de ellos se ha buscado simplificar la interacción del usuario, mejorar la comprensión del menú y reforzar la temática del producto sin comprometer la claridad.
+
+En conjunto, estos wireframes permiten validar la arquitectura de la información, los flujos de navegación y las decisiones de diseño antes de avanzar a fases de mayor fidelidad. Además, aseguran que la experiencia propuesta sea coherente, accesible y alineada con las necesidades detectadas en fases anteriores.
+
+## Imágenes de wireframes
+
+Así se ve la página principal del sistema.`./P2/img/Menu_Pc.png`  
+![Menu PC](./P2/img/Menu_Pc.png)
+
+Así se ve la creación del equipo de 6 o menú personalizado.  `./P2/img/Equipo6.png`  
+![Equipo de 6](./P2/img/Equipo6.png)
+
+Así se ve el menú de entrenadores.  `./P2/img/Entrenadores.png`  
+![Entrenadores](./P2/img/Entrenadores.png)
+
+Así se ve el menú de ligas.  `./P2/img/Liga.png`  
+![Liga](./P2/img/Liga.png)
+
+Así se ve el carrito de compra.  `./P2/img/Compra.png`  
+![Carrito](./P2/img/Compra.png)
+
+Así se ve el sistema de inicio de sesión.  `./P2/img/login.png`  
+![Login](./P2/img/login.png)
+
+Así se ve el sistema de fidelización.  `./P2/img/medallas.png`  
+![Medallas](./P2/img/medallas.png)
+
+Así se ve la web del usuario.  `./P2/img/Web.png`  
+![Web usuario](./P2/img/Web.png)
 
 <br>
 
