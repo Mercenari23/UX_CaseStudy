@@ -220,7 +220,7 @@ En conjunto, estos wireframes permiten validar la arquitectura de la informació
 ## Imágenes de wireframes
 
 Así se ve la página principal del sistema.`./P2/img/Menu_Pc.png`  
-![Menu PC](./P2/img/Menu_Pc.png)
+![Menu PC](./P2/img/MenuPc.png)
 
 Así se ve la creación del equipo de 6 o menú personalizado.  `./P2/img/Equipo6.png`  
 ![Equipo de 6](./P2/img/Equipo6.png)
