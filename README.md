@@ -219,28 +219,28 @@ En conjunto, estos wireframes permiten validar la arquitectura de la informació
 
 ## Imágenes de wireframes
 
-Así se ve la página principal del sistema.`./P2/img/Menu_Pc.png`  
-![Menu PC](./P2/img/MenuPc.png)
+Así se ve la página principal del sistema.  
+![Menu PC](./P2/img/MenuPC.png)
 
-Así se ve la creación del equipo de 6 o menú personalizado.  `./P2/img/Equipo6.png`  
+Así se ve la creación del equipo de 6 o menú personalizado.    
 ![Equipo de 6](./P2/img/Equipo6.png)
 
-Así se ve el menú de entrenadores.  `./P2/img/Entrenadores.png`  
+Así se ve el menú de entrenadores.   
 ![Entrenadores](./P2/img/Entrenadores.png)
 
-Así se ve el menú de ligas.  `./P2/img/Liga.png`  
+Así se ve el menú de ligas.  
 ![Liga](./P2/img/Liga.png)
 
-Así se ve el carrito de compra.  `./P2/img/Compra.png`  
+Así se ve el carrito de compra.   
 ![Carrito](./P2/img/Compra.png)
 
-Así se ve el sistema de inicio de sesión.  `./P2/img/login.png`  
+Así se ve el sistema de inicio de sesión.   
 ![Login](./P2/img/login.png)
 
-Así se ve el sistema de fidelización.  `./P2/img/medallas.png`  
+Así se ve el sistema de fidelización. 
 ![Medallas](./P2/img/medallas.png)
 
-Así se ve la web del usuario.  `./P2/img/Web.png`  
+Así se ve la web del usuario.  
 ![Web usuario](./P2/img/Web.png)
 
 <br>
