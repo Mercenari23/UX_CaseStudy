@@ -147,16 +147,10 @@ Problema de diseño: los restaurantes temáticos existentes generan interés por
 Hipótesis: si diseñamos una experiencia de pedido basada en una metáfora reconocible para el público objetivo —un “PC Pokémon” desde el que crear tu equipo de 6 ingredientes—, con navegación simple, ayudas visuales, opciones claras y recompensas mediante un sistema de medallas, entonces aumentará la satisfacción del usuario, la sensación de inmersión y la probabilidad de repetición.
 
 Propuesta de valor: PokéBowl League combina restauración temática e interfaz guiada para que el usuario no solo consuma comida, sino que “forme su equipo”, descubra platos inspirados en entrenadores y gimnasios, y reciba recompensas por volver. El valor diferencial no está solo en la ambientación, sino en transformar el pedido en una experiencia jugable, comprensible y socialmente compartible.
+
+A continuación hemos hecho un Empathy Map para destacar los puntos más importantes para esas personas que están de algún modo interesadas con nuestro producto. Nos sirve para saber que es lo bueno y malo de nuestro producto y cómo se sienten nuestros clientes respecto a ello.
+
 <img width="729" height="660" alt="image" src="https://github.com/user-attachments/assets/3198ef1d-34cc-4455-a277-a3f115c3f5f1" />
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
 
 ### 2.b ScopeCanvas
@@ -179,15 +173,10 @@ Con este canvas delimitamos el MVP del producto en torno a la experiencia de ped
 
 ![](P2/img/ScopeCanvas.png)
 
->>>falta mejorar
-
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
->>>
->>> Falta
 Se ha definido un User Flow centrado en la tarea principal del sistema: realizar un pedido personalizado en el restaurante. Esta tarea representa el núcleo de la propuesta de valor, ya que convierte la elección de comida en una experiencia temática inspirada en la construcción de un “equipo Pokémon”.
 
 El flujo principal comienza cuando el usuario accede a la pantalla inicial del sistema de pedido. Desde ahí puede elegir entre consultar la carta general, reservar mesa o iniciar directamente la creación de su plato. Si selecciona la opción de creación personalizada, el sistema le guía paso a paso para elegir base, proteínas, toppings, salsas y extras, mostrando nombres, descripciones e información relevante para evitar confusión. Una vez completado el “equipo de 6”, el usuario revisa el resumen del pedido, confirma, añade posibles complementos y finaliza el proceso. Finalmente recibe una confirmación y, si está registrado, se actualiza su progreso en la tarjeta de medallas.
@@ -203,8 +192,11 @@ El análisis de tareas nos permite reducir fricciones detectadas en la competenc
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
 
+Sitemap:
+
 <img width="945" height="472" alt="image" src="https://github.com/user-attachments/assets/b5bf64a8-1096-48c0-bb7d-5b5cce7a4958" />
 
+Labelling:
 
 Término | Significado     
 | ------------- | -------
