@@ -147,6 +147,7 @@ Problema de diseño: los restaurantes temáticos existentes generan interés por
 Hipótesis: si diseñamos una experiencia de pedido basada en una metáfora reconocible para el público objetivo —un “PC Pokémon” desde el que crear tu equipo de 6 ingredientes—, con navegación simple, ayudas visuales, opciones claras y recompensas mediante un sistema de medallas, entonces aumentará la satisfacción del usuario, la sensación de inmersión y la probabilidad de repetición.
 
 Propuesta de valor: PokéBowl League combina restauración temática e interfaz guiada para que el usuario no solo consuma comida, sino que “forme su equipo”, descubra platos inspirados en entrenadores y gimnasios, y reciba recompensas por volver. El valor diferencial no está solo en la ambientación, sino en transformar el pedido en una experiencia jugable, comprensible y socialmente compartible.
+<img width="729" height="660" alt="image" src="https://github.com/user-attachments/assets/3198ef1d-34cc-4455-a277-a3f115c3f5f1" />
 
 
  Interesante | Críticas     
@@ -200,11 +201,33 @@ El análisis de tareas nos permite reducir fricciones detectadas en la competenc
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+>>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
+
+<img width="945" height="472" alt="image" src="https://github.com/user-attachments/assets/b5bf64a8-1096-48c0-bb7d-5b5cce7a4958" />
+
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
+  Entrar  | Acceder a la página principal
+  Continuar con Google | Iniciar sesión con Google
+  Continuar con Facebook | Iniciar sesión con Facebook
+  Volver al inicio | Volver a la página principal
+  Sistema PC Pokémon | Puedes mirar tu equipo
+  Menú principal | Puedes mirar el menú principal 
+  Crear tu equipo | Crear tu equipo (plato)
+  Menús entrenadores | Menús de platos hechos (1-1)
+  Ligas regionales | Menús de varios platos con misma temática
+  Tu tarjeta | Puedes ver tus "medallas"
+  Añadir alimento | Añadir alimento al equipo (plato)
+  Tu equipo | Puedes ver los alimentos que tienes
+  Volver | Volver a la página de atrás
+  Añadir | Añadir al carro
+  Tu pedido | Ver lo que tienes en el pedido (alimentos/platos)
+  Confirmar pedido | Confirmar el pedido
+  Seguir comprando | Seguir comprando en la app
+  Escanea para validar | QR para diversas ofertas
+  
+  
 
 
 ### 2.d Wireframes
