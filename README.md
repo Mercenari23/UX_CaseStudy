@@ -190,8 +190,6 @@ El análisis de tareas nos permite reducir fricciones detectadas en la competenc
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
-
 Sitemap:
 
 <img width="945" height="472" alt="image" src="https://github.com/user-attachments/assets/b5bf64a8-1096-48c0-bb7d-5b5cce7a4958" />
