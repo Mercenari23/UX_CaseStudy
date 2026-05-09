@@ -302,8 +302,8 @@ Los organismos agrupan moléculas para formar bloques completos de la interfaz, 
 ----
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
-
+>>> ![](P3/img/PC.png)
+>>> ![](P3/img/Menu.png)
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
