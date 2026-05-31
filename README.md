@@ -270,7 +270,7 @@ Así se ve la web del usuario.
 >>> Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
- ![](P3/img/WhatsApp Image 2026-05-31 at 12.54.46.jpeg.png)
+ ![](P3/img/moodboard.png)
 
 El moodboard se ha hecho utilizando Figma. Se eligió por su facilidad para crear moodboards y por todo lo que ofrece.
 
