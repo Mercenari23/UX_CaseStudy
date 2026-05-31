@@ -462,7 +462,7 @@ Wall Street Burguer es un caso muy potente desde el punto de vista de branding, 
 
 La evaluación nos ha servido para comprobar que una buena interfaz no depende solo de que sea atractiva, sino de que la metáfora visual ayude a completar la tarea. En nuestro Caso A, la temática Pokémon funciona bien porque la idea de crear un “equipo de 6” se relaciona directamente con elegir ingredientes. En el Caso B, la metáfora de bolsa de valores es más sorprendente y memorable, pero también exige más aprendizaje.
 
-Como conclusión, mantenemos que el **Caso A es más usable para completar pedidos de forma rápida**, mientras que el **Caso B es más innovador y llamativo**. La mejora ideal para ambos sería equilibrar mejor creatividad y claridad: en nuestro caso, reforzando botones de volver, ayuda contextual y legibilidad móvil; en el Caso B, añadiendo onboarding, etiquetas mixtas y una jerarquía visual más orientada al cierre de compra.
+Como conclusión, mantenemos que el Caso A es más usable para completar pedidos de forma rápida, mientras que el Caso B es más innovador y llamativo. La mejora ideal para ambos sería equilibrar mejor creatividad y claridad: en nuestro caso, reforzando botones de volver, ayuda contextual y legibilidad móvil; en el Caso B, añadiendo onboarding, etiquetas mixtas y una jerarquía visual más orientada al cierre de compra.
 
 
 ## Paso 5. Exportación y Documentación 
