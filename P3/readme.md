@@ -7,7 +7,7 @@
 ![Método UX](img/moodboard.png)
 -----
 
-<img width="1600" height="1330" alt="WhatsApp Image 2026-05-31 at 12 54 46" src="https://github.com/user-attachments/assets/eb6087b8-f9df-4a87-bead-f5ec43f7fc5a" />
+ ![](img/moodboard.jpeg)
 
 El moodboard se ha hecho utilizando Figma. Se eligió por su facilidad para crear moodboards y por todo lo que ofrece.
 
