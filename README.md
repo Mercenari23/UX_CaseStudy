@@ -472,14 +472,11 @@ Como conclusión, mantenemos que el **Caso A es más usable para completar pedid
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
+Hemos utilizado la herramienta de Figma Make. De esta manera hemos ido indicándole lo que queríamos tener en la página para pulir los detalles que nos faltaban para terminar teniendo la página totalmente funcional.
 
 ### 5.b Documentación con Storybook
 ![Método UX](img/usabilityReview.png)
 ----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
 
 
 <br>
@@ -487,7 +484,13 @@ Como conclusión, mantenemos que el **Caso A es más usable para completar pedid
 ## Conclusiones finales & Valoración de las prácticas
 
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+El desarrollo de Pogo Ramen ha seguido la metodología UX de forma coherente en todas sus fases, con un resultado final que consideramos que ha sido positivo.
+
+La investigación inicial permitió detectar las debilidades reales del sector, del mundo del ramen (por ejemplo menús rígidos, navegación confusa, tematización superficial y siempre igual) y convertirlas en ventajas diferenciales del diseño. La metáfora del "PC Pokémon" y el sistema de "equipo de 6" no son solo recursos estéticos que nos hemos inventado, estos recursos conectan directamente el concepto temático con la acción principal del usuario.
+
+Como aspectos negativos, la accesibilidad móvil necesita mejoras, especialmente en botones de navegación y tamaño de controles. También se podrían añadir mas usuarios a la última parte de la práctica para que fuese más acertado el resultado.
+
+Pero en resumen, el proyecto demuestra que aplicar UX de forma sistemática y correcta hace que tengas decisiones de diseño más fundamentadas y resultados más usables. 
 
 
 
