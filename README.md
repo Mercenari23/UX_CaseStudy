@@ -320,8 +320,8 @@ https://raft-above-97145235.figma.site
 
 El objetivo de esta fase ha sido comparar la usabilidad percibida y observada entre dos propuestas de restauración digital:
 
-- **Caso A:** nuestra web de POGO RAMEN, disponible en https://pecan-manor-76065982.figma.site. La propuesta se basa en una experiencia temática Pokémon donde el usuario puede explorar menús, construir su “equipo de 6” ingredientes y consultar recompensas.
-- **Caso B:** el proyecto **Wall Street Burguer / Goiko's Change** del repositorio https://github.com/DIU3-COMPIS/UX_CaseStudy, disponible en https://www.figma.com/make/RNMefk5sTP5USA9a05kYDV/Crear-aplicación-diseño-atómico?p=f&t=9SY0qMbsscjzjcnD-0&preview-route=%2Fcart. La propuesta transforma la carta de hamburguesas en un mercado gamificado con precios variables, carrito y mecánicas de inversión.
+- Caso A: nuestra web de POGO RAMEN, disponible en https://pecan-manor-76065982.figma.site. La propuesta se basa en una experiencia temática Pokémon donde el usuario puede explorar menús, construir su “equipo de 6” ingredientes y consultar recompensas.
+- Caso B el proyecto Wall Street Burguer / Goiko's Change del repositorio https://github.com/DIU3-COMPIS/UX_CaseStudy, disponible en https://www.figma.com/make/RNMefk5sTP5USA9a05kYDV/Crear-aplicación-diseño-atómico?p=f&t=9SY0qMbsscjzjcnD-0&preview-route=%2Fcart. La propuesta transforma la carta de hamburguesas en un mercado gamificado con precios variables, carrito y mecánicas de inversión.
 
 Se seleccionaron usuarios ficticios representativos de distintos niveles de experiencia digital, edad y contexto de uso. La rúbrica exige al menos cuatro usuarios, con dos asignados al Caso A y dos al Caso B; hemos ampliado la muestra a seis para cubrir mejor perfiles con baja experiencia TIC y usuarios jóvenes habituados a interfaces gamificadas.
 
@@ -338,7 +338,7 @@ Se seleccionaron usuarios ficticios representativos de distintos niveles de expe
 
 Se diseñó una evaluación comparativa A/B con tareas equivalentes para ambos casos. Las pruebas combinan observación directa, checklist de usabilidad, tiempos de finalización, número de errores, comentarios del usuario y cuestionario SUS final.
 
-**Objetivos de evaluación:**
+Objetivos de evaluación:
 
 - Comprobar si el usuario entiende la propuesta de valor de cada interfaz en el primer contacto.
 - Medir la facilidad para localizar una opción principal de comida.
@@ -346,7 +346,7 @@ Se diseñó una evaluación comparativa A/B con tareas equivalentes para ambos c
 - Detectar problemas de navegación, etiquetado, contraste, jerarquía visual y feedback.
 - Comparar cuál de los dos casos resulta más usable según tareas, SUS y observación.
 
-**Tareas definidas:**
+Tareas definidas:
 
 | Prueba | Caso A: POGO RAMEN | Caso B: Wall Street Burguer | Métrica principal |
 | ------------- | ------------- | ------------- | ------------- |
@@ -354,18 +354,18 @@ Se diseñó una evaluación comparativa A/B con tareas equivalentes para ambos c
 | T2. Selección de producto | Crear o seleccionar un plato/menú y revisar sus ingredientes. | Elegir una hamburguesa del mercado o carrito y revisar precio/producto. | Éxito de tarea, errores y dudas verbalizadas. |
 | T3. Finalización | Añadir el producto al pedido y llegar a una pantalla de revisión/confirmación. | Revisar carrito y avanzar hacia la compra. | Tiempo, pasos necesarios y confianza del usuario. |
 
-**Criterios de observación basados en la rúbrica/checklist:**
+Criterios de observación basados en la rúbrica/checklist:
 
-- **Eficacia:** el usuario consigue completar la tarea.
-- **Eficiencia:** número de pasos y tiempo empleado.
-- **Satisfacción:** valoración SUS y comentarios espontáneos.
-- **Comprensibilidad:** etiquetas, metáforas y navegación.
-- **Accesibilidad básica:** contraste, tamaño de texto, legibilidad y claridad de controles.
-- **Feedback:** confirmaciones, estados visibles y prevención de errores.
+- Eficacia: el usuario consigue completar la tarea.
+- Eficiencia: número de pasos y tiempo empleado.
+- Satisfacción: valoración SUS y comentarios espontáneos.
+- Comprensibilidad: etiquetas, metáforas y navegación.
+  *Accesibilidad básica: contraste, tamaño de texto, legibilidad y claridad de controles.
+- Feedback: confirmaciones, estados visibles y prevención de errores.
 
 ## 4.c Cuestionario SUS
 
-Para valorar la satisfacción percibida se utilizó el cuestionario **SUS (System Usability Scale)**. Cada usuario respondió a las 10 afirmaciones en escala 1-5. La puntuación se calculó siguiendo el método estándar: en preguntas impares se resta 1 a la respuesta, en preguntas pares se resta la respuesta a 5, se suman los resultados y se multiplica por 2,5.
+Para valorar la satisfacción percibida se utilizó el cuestionario SUS (System Usability Scale). Cada usuario respondió a las 10 afirmaciones en escala 1-5. La puntuación se calculó siguiendo el método estándar: en preguntas impares se resta 1 a la respuesta, en preguntas pares se resta la respuesta a 5, se suman los resultados y se multiplica por 2,5.
 
 | Usuario | Caso | SUS | Interpretación | Comentario principal |
 | ------------- | ---- | ---- | ------------- | ------------- |
@@ -376,14 +376,14 @@ Para valorar la satisfacción percibida se utilizó el cuestionario **SUS (Syste
 | Alberto R. | B | 62,5 | Aceptable | La metáfora financiera le parece original, aunque poco directa para pedir comida. |
 | Hugo | B | 75,0 | Buena | La gamificación le atrae, pero el mercado le hace dedicar más tiempo a comparar. |
 
-**Resultados agregados:**
+Resultados agregados:
 
 | Caso | Media SUS | Etiqueta | Lectura |
 | ---- | ---- | ---- | ---- |
 | Caso A | 76,7 | Buena | Interfaz más directa para completar un pedido temático. |
 | Caso B | 70,0 | Aceptable/Buena | Concepto creativo y atractivo, pero con mayor carga cognitiva. |
 
-La valoración SUS indica que ambos casos son utilizables, pero el **Caso A obtiene mejor puntuación media**. La diferencia se explica principalmente por la claridad del flujo de pedido: en POGO RAMEN la metáfora del “equipo de 6” está más conectada con la acción de elegir ingredientes, mientras que en Wall Street Burguer la metáfora bursátil resulta muy original pero requiere más explicación inicial.
+La valoración SUS indica que ambos casos son utilizables, pero el Caso A obtiene mejor puntuación media. La diferencia se explica principalmente por la claridad del flujo de pedido: en POGO RAMEN la metáfora del “equipo de 6” está más conectada con la acción de elegir ingredientes, mientras que en Wall Street Burguer la metáfora bursátil resulta muy original pero requiere más explicación inicial.
 
 ## 4.d A/B Testing
 
@@ -395,20 +395,20 @@ La comparación A/B se realizó con tres pruebas equivalentes. Se registró el p
 | T2. Selección de producto | 3/3 completan la selección; dudas menores sobre ingredientes disponibles. | 3/3 completan la selección; aparecen dudas sobre precio variable y prioridad de elementos. | Empate con ventaja A |
 | T3. Finalización / carrito | 2/3 completan sin ayuda; una usuaria busca mejor botón de volver. | 2/3 completan sin ayuda; un usuario tarda más en identificar el paso final. | Empate |
 
-**Resultado global:**
+Resultado global:
 
 | Caso | Éxito total | Tiempo medio estimado | Incidencias | Valoración global |
 | ---- | ---- | ---- | ---- | ---- |
 | A | 8/9 tareas completadas sin ayuda | 2 min 35 s | 3 incidencias leves | Más usable |
 | B | 7/9 tareas completadas sin ayuda | 3 min 10 s | 5 incidencias leves/medias | Más innovador, menos directo |
 
-El **Caso A se considera más usable** en la comparación global porque permite entender antes la tarea principal y reduce la carga cognitiva durante la selección. El **Caso B destaca por creatividad, identidad visual y gamificación**, pero necesita reforzar el onboarding o cambiar algunas etiquetas para que el usuario entienda que “invertir” equivale a comprar/seleccionar una hamburguesa.
+El Caso A se considera más usable en la comparación global porque permite entender antes la tarea principal y reduce la carga cognitiva durante la selección. El Caso B destaca por creatividad, identidad visual y gamificación, pero necesita reforzar el onboarding o cambiar algunas etiquetas para que el usuario entienda que “invertir” equivale a comprar/seleccionar una hamburguesa.
 
 ## 4.e Aplicación del método Eye Tracking
 
-El método de eye tracking se aplicó únicamente al **Caso B**, tal como indica la rúbrica. El objetivo fue analizar si la interfaz de Wall Street Burguer guía correctamente la atención hacia los elementos importantes del flujo de compra: producto, precio, botón de acción y carrito.
+El método de eye tracking se aplicó únicamente al Caso B, tal como indica la rúbrica. El objetivo fue analizar si la interfaz de Wall Street Burguer guía correctamente la atención hacia los elementos importantes del flujo de compra: producto, precio, botón de acción y carrito.
 
-**Diseño del experimento:**
+Diseño del experimento:
 
 - Herramienta propuesta: GazeRecorder o una herramienta equivalente de registro visual por webcam.
 - Participantes: 3 usuarios asignados al Caso B.
@@ -417,7 +417,7 @@ El método de eye tracking se aplicó únicamente al **Caso B**, tal como indica
 - Tarea: revisar el carrito, identificar el producto/precio principal y avanzar hacia la acción de compra.
 - Registro: mapa de calor, zonas de fijación y comentarios posteriores.
 
-**Áreas de interés definidas (AOI):**
+Áreas de interés definidas (AOI):
 
 | AOI | Elemento observado | Qué se esperaba medir |
 | ---- | ---- | ---- |
@@ -426,7 +426,7 @@ El método de eye tracking se aplicó únicamente al **Caso B**, tal como indica
 | AOI 3 | Botón de acción principal | Si el CTA se localiza sin búsqueda prolongada. |
 | AOI 4 | Resumen del carrito | Si el usuario entiende el estado final del pedido. |
 
-**Resultados observados:**
+Resultados observados:
 
 Los usuarios fijaron la mirada primero en los elementos de precio y variación, lo cual confirma que la metáfora de mercado llama la atención. Sin embargo, esta atracción también generó una pequeña desviación respecto al objetivo de compra: dos usuarios revisaron varias veces el precio antes de localizar el botón de acción. El CTA fue visible, pero compitió con gráficos, etiquetas y cifras. La recomendación principal es aumentar la jerarquía visual del botón final y añadir una microexplicación breve del concepto “invertir/comprar” en el primer uso.
 
@@ -454,7 +454,7 @@ El Caso B presenta una propuesta sólida y diferenciada: convierte la compra de 
 | Posible contraste/legibilidad en elementos secundarios | Algunos textos o cifras pequeñas pueden ser difíciles en pantallas pequeñas. | Afecta a usuarios mayores o con baja visión. | Baja/Media | Revisar contraste WCAG y aumentar tamaño de textos auxiliares. |
 | Onboarding insuficiente para primera visita | La idea es creativa, pero no siempre se entiende en menos de un minuto. | Penaliza la primera impresión. | Media | Añadir una frase breve en la pantalla inicial: “Compra burgers con precios dinámicos según demanda”. |
 
-**Valoración general del Caso B:**
+Valoración general del Caso B:
 
 Wall Street Burguer es un caso muy potente desde el punto de vista de branding, originalidad y diferenciación. Su principal punto fuerte es que convierte una acción rutinaria, pedir comida, en una experiencia memorable. No obstante, al evaluarlo como sistema de pedido, la usabilidad depende mucho del perfil del usuario: quienes entienden la gamificación disfrutan más, pero quienes buscan rapidez necesitan etiquetas más convencionales y mayor orientación.
 
