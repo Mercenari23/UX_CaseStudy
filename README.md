@@ -325,17 +325,19 @@ https://raft-above-97145235.figma.site
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Alberto  | H / 23   | Estudiante     | Alta        | Introvertido | Web.       | A 
+| Daniela  | H / 15   | Estudiante     | baja        | Extrovertido | Web.       | A 
+| Sonia    | M / 56   | Administrativo | Baja        | Emocional    | móvil      | A
+| Nicolson | H / 21   | Estudiante     | Media       | Timido       | Web        | B 
+| Alberto  | H / 58   | Técnico        | baja        | Racional     | Web        | B 
+| Hugo     | H / 58   | Estudiante     | alta        | tímido       | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+>>> 
 
 
 
