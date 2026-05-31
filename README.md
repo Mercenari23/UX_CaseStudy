@@ -21,7 +21,7 @@ Grupo: DIU1.Pogo  Curso: 2025/26
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+PogoRamen
 
 Descripción: 
 
@@ -132,7 +132,7 @@ La navegación se vuelve un poco dificultosa por la ausencia de botones para vol
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
@@ -260,16 +260,11 @@ Así se ve la web del usuario.
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
  ![](P3/img/moodboard.jpeg)
 
 El moodboard se ha hecho utilizando Figma. Se eligió por su facilidad para crear moodboards y por todo lo que ofrece.
@@ -281,8 +276,6 @@ Esta imagen funciona bien como presentación de la identidad visual del proyecto
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
-
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
 ### 3.c Guidelines
