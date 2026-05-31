@@ -467,9 +467,7 @@ Como conclusión, mantenemos que el Caso A es más usable para completar pedidos
 
 Hemos utilizado la herramienta de Figma Make. De esta manera hemos ido indicándole lo que queríamos tener en la página para pulir los detalles que nos faltaban para terminar teniendo la página totalmente funcional.
 
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
+El resultado final es este: https://pecan-manor-76065982.figma.site
 
 
 <br>
