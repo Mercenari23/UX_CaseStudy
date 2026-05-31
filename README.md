@@ -430,6 +430,14 @@ El método de eye tracking se aplicó únicamente al **Caso B**, tal como indica
 
 Los usuarios fijaron la mirada primero en los elementos de precio y variación, lo cual confirma que la metáfora de mercado llama la atención. Sin embargo, esta atracción también generó una pequeña desviación respecto al objetivo de compra: dos usuarios revisaron varias veces el precio antes de localizar el botón de acción. El CTA fue visible, pero compitió con gráficos, etiquetas y cifras. La recomendación principal es aumentar la jerarquía visual del botón final y añadir una microexplicación breve del concepto “invertir/comprar” en el primer uso.
 
+ ![](P5/img/analisis_sitio1_1780239311493.jpg)
+ ![](P5/img/analisis_sitio2_1780239326383.jpg)
+ ![](P5/img/analisis_sitio3_1780239340887.jpg)
+ ![](P5/img/analisis_sitio4_1780239354998.jpg)
+ ![](P5/img/analisis_sitio5_1780240025192.jpg)
+ ![](P5/img/analisis_sitio6_1780240031516.jpg)
+ ![](P5/img/analisis_sitio7_1780240037857.jpg)
+
 ## 4.f Usability Report de B
 
 **Caso evaluado:** Wall Street Burguer / Goiko's Change  
