@@ -7,9 +7,13 @@
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+<img width="1600" height="1330" alt="WhatsApp Image 2026-05-31 at 12 54 46" src="https://github.com/user-attachments/assets/eb6087b8-f9df-4a87-bead-f5ec43f7fc5a" />
+
+El moodboard se ha hecho utilizando Figma. Se eligió por su facilidad para crear moodboards y por todo lo que ofrece.
+
+Se ha utilizado una resolución alta para poder tener una buena calidad visual y mantener la legibilidad de todos los elementos del moodboard en la pantalla.
+
+Esta imagen funciona bien como presentación de la identidad visual del proyecto, pero no sería la opción más adecuada como cabecera o publicación principal de Instagram debido a la cantidad de información que contiene, ya que contiene información que quizás no es tan relevante para el cliente. Habría que hacer algo más directo para el cliente, que esté menos cargado y que también tenga la resolución adecuada para poder subirse a Instagram.
 
 
 ### 3.b Landing Page
